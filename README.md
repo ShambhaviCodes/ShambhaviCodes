@@ -8,8 +8,8 @@
 [![GitHub : ShambhaviCodes](https://img.shields.io/github/followers/shambhavicodes?label=Follow&style=social)](https://github.com/ShambhaviCodes)
 
 
-<img align='left' img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50">  
-### More About Me!
+ 
+<h3>More About Me! <img align='left' img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"></h3>
 
 ```Python 3.7
 Shambhavi_Codes = {
