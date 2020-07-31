@@ -1,5 +1,5 @@
 <h2> Hi 👋, I'm Shambhavi Mishra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/ShambhaviCodes/ShambhaviCodes/blob/master/undraw_freelancer_b0my.png" width="270">
+<img align='right' src="https://giphy.com/embed/cNfIqjpCY1zqfaLmd8" width="270">
 <p><em>Data Science Intern at <a href="http://www.researchwire.in">ResearchWire</a></br>Organizer & Host at <a href="https://www.computervisiontalks.github.io">Computer Vision Talks</a> 
 </em></p>
 
@@ -8,26 +8,20 @@
 [![GitHub : ShambhaviCodes](https://img.shields.io/github/followers/shambhavicodes?label=Follow&style=social)](https://github.com/ShambhaviCodes)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://giphy.com/embed/26n7b7PjSOZJwVCmY" width="70"> 
 
-```javascript
-const thai = {
+```Python 3.7
+Shambhavi_Codes = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+  code: [Python, Flask, Django],
+  tools: [PyTorch, Tensorflow, Keras, NLTK, OpenCV, Scikit, Gensim, Seaborn, HTML, CSS, Docker],
+  challenge: "I am doing the #100DaysOfOpenSource challenge and updating all my past projects on GitHub"
+  coursework_undergoing/undertaken : { cs224n-Stanford : Natural Language Processing with Deep Learning,
+                 cs231n-Stanford : Convolutional Neural Networks for Visual Recognition,
+                 CS294-158-SP20 : Deep Unsupervised Learning
+  }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
 
 
 
