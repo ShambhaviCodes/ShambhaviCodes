@@ -1,5 +1,5 @@
 <h2> Hi 👋, I'm Shambhavi Mishra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="370">
+<img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="290">
 <p><em>Data Science Intern at <a href="http://www.researchwire.in">ResearchWire</a></br>Organizer & Host at <a href="https://www.computervisiontalks.github.io">Computer Vision Talks</a> 
 </em></p>
 
@@ -8,7 +8,7 @@
 [![GitHub : ShambhaviCodes](https://img.shields.io/github/followers/shambhavicodes?label=Follow&style=social)](https://github.com/ShambhaviCodes)
 
 
-### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="70">  More About Me!
+### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50">  More About Me!
 
 ```Python 3.7
 Shambhavi_Codes = {
