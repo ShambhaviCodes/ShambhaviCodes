@@ -1,5 +1,5 @@
 <h2> Hi 👋, I'm Shambhavi Mishra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/embed/cNfIqjpCY1zqfaLmd8" width="270">
+<img align='right' src="https://giphy.com/embed/cNfIqjpCY1zqfaLmd8" <a href="https://giphy.com/gifs/cNfIqjpCY1zqfaLmd8"> width="270">
 <p><em>Data Science Intern at <a href="http://www.researchwire.in">ResearchWire</a></br>Organizer & Host at <a href="https://www.computervisiontalks.github.io">Computer Vision Talks</a> 
 </em></p>
 
