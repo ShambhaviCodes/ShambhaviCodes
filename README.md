@@ -1,6 +1,6 @@
 <h2> Hello , I'm Shambhavi Mishra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/ShambhaviCodes/ShambhaviCodes/blob/master/undraw_freelancer_b0my.png" width="320">
-<p><em>Data Science Intern at <a href="http://www.researchwire.in">ResearchWire</a></br>Organizer & Host at <a href="https://www.computervisiontalks.github.io">Computer Vision Talks</a> 
+<p><em>Data Science Intern at <a href="http://www.researchwire.in">ResearchWire</a></br>Organizer & Host at <a href="https://computervisiontalks.github.io/.io">Computer Vision Talks</a> 
 </em></p>
 
 
