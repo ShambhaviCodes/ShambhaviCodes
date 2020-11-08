@@ -24,7 +24,7 @@
 Shambhavi_Codes = {
   pronouns: 'she' | 'her',
   code: [Python, Flask, Django],
-  tools: [PyTorch, Tensorflow, Keras, NLTK, OpenCV, Scikit, Gensim, Seaborn, HTML,{ CSS, Docker],
+  tools: [PyTorch, Tensorflow, Keras, NLTK, OpenCV, Scikit, Gensim, Seaborn, HTML, CSS, Docker],
   challenge: 'I am doing the #25Days of PyTorch Challenge (PyTorch November Repository)'
   coursework_undergoing/undertaken : { cs224n-stanford : 'Natural Language Processing with Deep Learning',
                  cs231n-stanford : 'Convolutional Neural Networks for Visual Recognition',
